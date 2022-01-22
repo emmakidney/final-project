@@ -27,10 +27,12 @@ const config = {
           editUrl: 'https://github.com/emmakidney/final-project',
         },
         blog: {
+          blogSidebarTitle: 'All posts',
+          blogSidebarCount: 'ALL',
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'hhttps://github.com/emmakidney/final-project',
+            'https://github.com/emmakidney/final-project',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
