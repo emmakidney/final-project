@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Web Accessibility Handbook',
+  title: 'Web Accessibility for Developers',
   tagline: 'Web for All',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
@@ -45,7 +45,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Web Accessibility Handbook',
+        title: 'Web Accessibility for Developers',
         logo: {
           alt: 'My Site Logo',
           src: 'img/WAD.png',
@@ -108,7 +108,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Web Accessibility Handbook, Emma Kidney. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Web Accessibility for Developers, Emma Kidney. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
