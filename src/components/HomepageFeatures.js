@@ -4,32 +4,32 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Equality',
+    Svg: require('../../static/img/globe-svgrepo-com.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+       It is essential that the Web be accessible in order to provide equal access 
+       and equal opportunity to people with diverse abilities.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Accessibility',
+    Svg: require('../../static/img/puzzle-svgrepo-com.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Web Accessibility is a practice that allows the Web to be used by people 
+        with a wide range of hearing, movement, sight, and cognitive ability.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    title: 'Consideration',
+    Svg: require('../../static/img/window-layout-svgrepo-com.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+       To guarantee the accessibility of websites, one must ensure that they are 
+       compatible with commonly used input and output tools (software and/or devices).
       </>
     ),
   },
