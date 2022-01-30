@@ -1,41 +1,34 @@
-# Website
+# How Can Developers Incorporate Web Accessibility into their Standard Practices?
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+### Web Accessibility for Developers 
 
-### Installation
+Final project as part of Higher Diploma in Science in Computer Science 
 
-```
-$ yarn
-```
+Emma Kidney
 
-### Local Development
+20074350
 
-```
-$ yarn start
-```
+------
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+The Web is designed to work for all people, regardless of hardware, software, language, location, or ability. It is an increasingly important resource in many aspects of life: education, employment, government, commerce, health care, recreation, and more. It is essential that the Web be accessible in order to provide equal access and equal opportunity to people with diverse abilities.  Access to information and communications technologies, including the Web, is defined as a basic human right in the United Nations Convention on the Rights of Persons with Disabilities (w3c_wai, 2019).
 
-### Build
 
-```
-$ yarn build
-```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+ Web Accessibility is a practice that allows the Web to be used by people with a wide range of hearing, movement, sight, and cognitive ability (w3c_wai, 2019). To guarantee the accessibility of websites, one must ensure that they are compatible with commonly used input and output tools (software and/or devices). This also includes Assistive Technologies which are created specifically for people with special needs, like blind, hard-of-hearing, or motor-impaired people (Access for all, 2018). There is also a vast [number of software](https://www.accessibility-developer-guide.com/setup/helper-tools/)s that helps in developing accessible websites.
 
-### Deployment
 
-Using SSH:
 
-```
-$ USE_SSH=true yarn deploy
-```
+##### Deployment:
 
-Not using SSH:
+This project is was built using Docusauras and is currently deployed using Netlify. You can find the project here: https://WAforD.netlify.app/
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+##### Key Goals:
+
+- Create a handbook to include:
+
+- - Current legislation around web accessibility
+  - Differences to consider  for websites, software and mobile applications.
+  - Tools and frameworks that  can aid a developer.
+  - A series of test suites.
