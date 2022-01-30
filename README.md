@@ -32,3 +32,16 @@ This project is was built using Docusauras and is currently deployed using Netli
   - Differences to consider  for websites, software and mobile applications.
   - Tools and frameworks that  can aid a developer.
   - A series of test suites.
+
+
+##### Reference list:
+
+Access for all (2018). Welcome to the Accessibility Developer Guide! [online] Accessibility Developer Guide. Available at: https://www.accessibility-developer-guide.com/ [Accessed 1 Dec. 2021].
+
+Bernard, R. (2019). Web Accessibility and Mental Disorders: Difficulties Experienced by People with Depression and Anxiety on the Web. [online] Available at: https://edoc.ub.uni-muenchen.de/26029/7/Bernard_Renaldo.pdf [Accessed 1 Dec. 2021].
+
+Fisher, G.G., Chacon, M. and Chaffee, D.S. (2019). Chapter 2 - Theories of Cognitive Aging and Work. [online] ScienceDirect. Available at: https://www.sciencedirect.com/science/article/pii/B9780128127568000025 [Accessed 1 Dec. 2021].
+
+W3C (2019). Making Content Usable for People with Cognitive and Learning Disabilities. [online] W3.org. Available at: https://www.w3.org/TR/coga-usable/ [Accessed 1 Dec. 2021].
+
+w3c_wai (2019). Introduction to Web Accessibility. [online] Web Accessibility Initiative (WAI). Available at: https://www.w3.org/WAI/fundamentals/accessibility-intro/ [Accessed 1 Dec. 2021].
