@@ -23,17 +23,6 @@ The Web is designed to work for all people, regardless of hardware, software, la
 This project is was built using Docusauras and is currently deployed using Netlify. You can find the project here: https://WAforD.netlify.app/
 
 
-
-##### Key Goals:
-
-- Create a handbook to include:
-
-- - Current legislation around web accessibility
-  - Differences to consider  for websites, software and mobile applications.
-  - Tools and frameworks that  can aid a developer.
-  - A series of test suites.
-
-
 ##### Reference list:
 
 Access for all (2018). Welcome to the Accessibility Developer Guide! [online] Accessibility Developer Guide. Available at: https://www.accessibility-developer-guide.com/ [Accessed 1 Dec. 2021].
