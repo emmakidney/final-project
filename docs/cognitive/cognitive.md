@@ -1,0 +1,8 @@
+---
+sidebar_position: 1
+---
+
+# Cognitive
+
+The majority of the WAI principles and checkpoints are geared toward making websites accessible and usable for people with visual and movement disabilities. They specify what the accessible website should accomplish or contain in great detail. Users of assistive and adapted equipment, such as screen readers or customized keyboards, can browse websites that follow the requirements. The document claims to be aimed at persons who have trouble reading and interpreting material, as well as those who are not fluent in the language in which the site's content is delivered. The standards, on the other hand, are less explicit on how to make web information accessible to those who have intellectual disabilities that affect their language skills (J. Karreman, T. Geest and E. Buursink, 2017).
+The COGA (W3C's Cognitive and Learning Disability Task Force) Task Force has published recommended scenarios for user group research on eight specific cognitive disabilities: dyslexia, aphasia, non-verbal, Down syndrome, autism, dyscalculia, ageing-related cognitive decline, and attention deficit disorder (ADD/ADHD). Our definition of web accessibility for people with cognitive disabilities is shaped by these suggestions. For a developer, web accessibility for people with cognitive disabilities means that web users with cognitive disabilities can navigate and engage with websites, web tools, and web technologies to accomplish tasks associated with health, education, and employment, to communicate, to use the web of things and web systems, and to access critical information (Gartland et al., 2022).
