@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Physical
+# Physical Impairment
 
 Weakness and limitations of muscular control (such as involuntary movements such as tremors, lack of coordination, or paralysis), limitations of sensation, joint disorders (such as arthritis), pain that impedes movement, and missing limbs are all examples of physical disabilities (also known as "motor disabilities"). To use the Web, people with physical disabilities often use specialized hardware and software such as:
 - Ergonomic or specially designed keyboard or mouse,
