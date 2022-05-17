@@ -1,0 +1,11 @@
+---
+sidebar_position: 1
+---
+
+# Visual Impairment
+
+Screen readers are regularly used by people with vision problems to navigate the Internet. Web sites must be accessible to screen readers to support non-visual browsing, which means that all visible elements on the site must be readable by the screen reader. However, even if a website is accessible, screen-reader users may find it difficult to use and navigate. For example, users might not be able to find the information they need without listening to a lot of irrelevant material. These difficulties aren't only about web accessibility; they also have a direct impact on web usability. The unifying issue that drives a lot of strategies used for increasing web usability is understanding the semantics of digital content (Ramakrishnan, Ashok and Billah, 2017).
+
+Screen readers are software programs that allow blind or visually impaired users to read the text that is displayed on the computer screen with a speech synthesizer or Braille display. The user sends commands by pressing different combinations of keys on the computer keyboard or Braille display to instruct the speech synthesizer what to say and to speak automatically when changes occur on the computer screen (The American Foundation for the Blind, 2020).
+
+A screen reader can come with some drawbacks when it comes to its usability. To use a screen reader, users have to remember an assortment of shortcuts and many browsing techniques. This can lead to complex websites causing unnecessary excessive computer interaction. Secondly, users cannot judge the importance of content before they read it as sighted users can. As a result, blind users go through a lot of irrelevant content to get the information they need. This can lead to information overload. Lastly, blind users only have access to a web page's syntactic structure, as screen readers cannot comprehend the semantic structure (Ramakrishnan, Ashok and Billah, 2017). All of these problems can become quite overwhelming for the user. It is important to explore what solutions can be used to make the web more accessible and usable for those with visual impairments.

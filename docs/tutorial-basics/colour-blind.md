@@ -1,0 +1,10 @@
+---
+sidebar_position: 3
+---
+
+# Colour Blindness
+
+Colour blindness is a mild impairment that makes it difficult to differentiate colours. Colour blindness comes in a variety of forms. Colour blindness or a partial inability to distinguish colours makes defining the hues of a comparable colour more difficult. It can be challenging to create a design that is suited for all types of colour blindness (Abd Ellfattah and Tawfik, 2014). One out of every twelve men suffers from some form of colour blindness. If we are uneducated, the colour choices we make in software and Web design can make life more difficult for these individuals. Colour should never be used as the primary signal for information in good design. The alternatives should be clear without the use of colour, and the colour is just used to enhance emphasis (Christine, 2017).
+Colour blindness affects 8% of Caucasian men. There are 1% red-blind (protanope) and 1.1% green-blind (deuteranope) dichromats, 1% red-insensitive (protanomalous) trichromats, and 4.9% green-insensitive (deuteranomolous) trichromats in this group. Only 0. 002 per cent of men are blue-blind (tritanopia—tritanomalous conditions are unknown) and 0. 003 per cent are colour-blind completely. Men are more likely to have the red and green variants of colour deficiency, which are caused by a recessive gene on the X chromosome. Only 0.4% of women suffer from some form of colour vision impairment, most of which are red or green in nature (Christine, 2017).
+
+The colours on every computer monitor are going to be a bit different. This makes it difficult to come up with a single 'true' RGB value for any given real-world colour, making precise colour reproduction on screen challenging. In practice, however, RGB is used to define colour in software and on the Internet without regard for chromatic values. As manufacturing becomes more standardised, modern monitors are becoming more similar than they used to be. Despite their lack of precision, these transformations are a reasonable and practical way to ensure that a user interface does not cause problems for colour-blind people (Christine, 2017).
