@@ -26,14 +26,6 @@ const config = {
           // Please change this to your repo.
           editUrl: 'https://github.com/emmakidney/final-project',
         },
-        blog: {
-          blogSidebarTitle: 'All posts',
-          blogSidebarCount: 'ALL',
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/emmakidney/final-project',
-        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -57,7 +49,6 @@ const config = {
             position: 'left',
             label: 'Documentation',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
